@@ -1,0 +1,1 @@
+# facilitador-de-geracao-de-link-whatsapp
